@@ -1,0 +1,18 @@
+{
+  "city_name": "Ibrahim City",
+  "vehicles": 12500,
+  "road_length_km": 180.0,
+  "population": 250000,
+  "available_water_lpd": 31000000.0,
+  "building_length_m": 45.0,
+  "building_width_m": 30.0,
+  "floors": 8,
+  "cost_per_m2": 75000.0,
+  "waste_kg_per_person": 0.75,
+  "recycling_percentage": 35.0,
+  "population_growth_pct": 2.0,
+  "vehicle_growth_pct": 3.0,
+  "water_supply_growth_pct": 1.0,
+  "recycling_target_pct": 60.0,
+  "forecast_years": 10
+}
